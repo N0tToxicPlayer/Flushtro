@@ -1,2 +1,4 @@
+THIS MOD MIGHT PROBABLY CRASH BUT IM TOO LAZY TO TROUBLESHOOT THEM :3
 # Flushtro
 Dumb mod i made in Joker Forge
+
