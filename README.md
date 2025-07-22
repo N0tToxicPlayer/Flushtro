@@ -3,9 +3,9 @@ THIS MOD MIGHT PROBABLY CRASH BUT IM TOO LAZY TO TROUBLESHOOT THEM :3
 # Flushtro
 Unbalanced mess of a mod
 includes:
-*jokers
-*jokers
-*jokers
-*and jokers
+* jokers
+* jokers
+* jokers
+* and jokers
 
 thanks yahamouse for playing this mod of mine :D
