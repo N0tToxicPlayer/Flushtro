@@ -1,0 +1,18 @@
+{
+  "id": "flushtro",
+  "name": "Flushtro",
+  "author": [
+    "ToxicPlayer"
+  ],
+  "description": "yet another unbalanced mess of a mod that adds more jokers",
+  "prefix": "flush",
+  "main_file": "main.lua",
+  "version": "4.0.0",
+  "priority": 99939129399,
+  "badge_colour": "ea9600",
+  "badge_text_colour": "ffffff",
+  "dependencies": [
+    "Steamodded (>=1.0.0~BETA-0711a)",
+    "Talisman (>=2.2.0a)"
+  ]
+}
